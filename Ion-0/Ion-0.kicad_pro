@@ -543,6 +543,9 @@
     ]
   },
   "pcbnew": {
+    "find_by_properties": {
+      "recent_queries": []
+    },
     "last_paths": {
       "idf": "",
       "netlist": "",
