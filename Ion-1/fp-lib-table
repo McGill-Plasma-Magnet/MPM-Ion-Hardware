@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "1_ion-lib") (type "KiCad") (uri "/home/orca/Documents/Projects/MIFERG/MPM-Ion-Hardware/Ion-lib/1_ion-lib.pretty") (options "") (descr ""))
+)
